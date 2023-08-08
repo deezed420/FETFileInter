@@ -1,3 +1,3 @@
-from src.__init__ import OpenFile
+from src.FETFileInter.__init__ import OpenFile
 
 OpenFile()
